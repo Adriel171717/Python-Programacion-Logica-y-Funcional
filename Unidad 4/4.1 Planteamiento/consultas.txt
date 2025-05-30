@@ -1,0 +1,25 @@
+--Cargar archivos
+
+consult('C:/Users/Adriel/Desktop/Python Programacion Logica y Funcional/Unidad 4/4.1 Planteamiento/sistema_riego.pl').
+
+consult('C:/Users/Adriel/Desktop/sistema_riego.pl').
+
+--Visualiazar base de conocimientos
+
+listing.
+
+listing(activar_riego).
+
+--Consultas:
+
+activar_riego.
+
+hora_adecuada.
+
+pronostico_lluvia(X).
+
+estado_riego(X).
+
+recomendacion.
+
+Mejorar la vase de conocimiento
